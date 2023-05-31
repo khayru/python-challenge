@@ -1,0 +1,7 @@
+Election Result pyPol
+----------------------------
+Candidate: Raymon Anthony Doane
+Votes  : 11606
+percentage_votes:3.14
+Winer Vote: 272892
+Winer: Diana DeGette
